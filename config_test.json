@@ -71,8 +71,8 @@
           "discounted_plan_pid": ""
         },
         {
-          "pid": "com_glykka_easysign_standard_oneyear_2021_120",
-          "original_pid": "com.glykka.easysign.pro.oneyear.120",
+          "pid": "com.glykka.easysign.pro.oneyear.120",
+          "original_pid": "com_glykka_easysign_standard_oneyear_2021_120",
           "count": 365,
           "id": 7,
           "message": "",
@@ -80,11 +80,11 @@
           "is_intro_offer": false,
           "is_discounted" : true,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_standard_oneyear_2021_120"
+          "discounted_plan_pid": "com.glykka.easysign.pro.oneyear.120"
         },
         {
-          "pid": "com_glykka_easysign_plus_oneyear_2021_180",
-          "original_pid": "com.glykka.easysign.business.oneyear.180",
+          "pid": "com.glykka.easysign.business.oneyear.180",
+          "original_pid": "com_glykka_easysign_plus_oneyear_2021_180",
           "count": 365,
           "id": 8,
           "message": "",
@@ -92,7 +92,7 @@
           "is_intro_offer": false,
           "is_discounted" : true,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_plus_oneyear_2021_180"
+          "discounted_plan_pid": "com.glykka.easysign.business.oneyear.180"
         }
     ],
       "regional": [
@@ -149,8 +149,8 @@
           "discounted_plan_pid": ""
         },
     {
-          "pid": "com_glykka_easysign_standard_oneyear_2021_120",
-          "original_pid": "com.glykka.easysign.pro.oneyear.120",
+          "pid": "com.glykka.easysign.pro.oneyear.120",
+          "original_pid": "com_glykka_easysign_standard_oneyear_2021_120",
           "count": 365,
           "id": 7,
           "message": "",
@@ -158,11 +158,11 @@
           "is_intro_offer": false,
           "is_discounted" : true,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_standard_oneyear_2021_120"
+          "discounted_plan_pid": "com.glykka.easysign.pro.oneyear.120"
         },
         {
-          "pid": "com_glykka_easysign_plus_oneyear_2021_180",
-          "original_pid": "com.glykka.easysign.business.oneyear.180",
+          "pid": "com.glykka.easysign.business.oneyear.180",
+          "original_pid": "com_glykka_easysign_plus_oneyear_2021_180",
           "count": 365,
           "id": 8,
           "message": "",
@@ -170,7 +170,7 @@
           "is_intro_offer": false,
           "is_discounted" : true,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_plus_oneyear_2021_180"
+          "discounted_plan_pid": "com.glykka.easysign.business.oneyear.180"
         }]
     }
   ]
