@@ -30,7 +30,7 @@
           "save_percentage": "",
           "message": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
         },
@@ -42,7 +42,7 @@
           "message": "",
           "save_percentage": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com_glykka_easysign_professional_oneyear_2021_70"
         },
@@ -78,7 +78,7 @@
           "message": "",
           "save_percentage": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com.glykka.easysign.pro.oneyear.120"
         },
@@ -90,7 +90,7 @@
           "message": "",
           "save_percentage": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com.glykka.easysign.business.oneyear.180"
         }
@@ -105,7 +105,7 @@
           "save_percentage": "",
           "message": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
         },
@@ -118,7 +118,7 @@
           "message": "",
           "save_percentage": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com_glykka_easysign_professional_oneyear_2021_70"
         },
@@ -156,7 +156,7 @@
           "message": "",
           "save_percentage": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com.glykka.easysign.pro.oneyear.120"
         },
@@ -168,7 +168,7 @@
           "message": "",
           "save_percentage": "",
           "is_intro_offer": false,
-          "is_discounted" : true,
+          "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com.glykka.easysign.business.oneyear.180"
         }]
