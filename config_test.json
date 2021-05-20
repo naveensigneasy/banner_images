@@ -6,7 +6,8 @@
         {
           "pid": "com.glykka.easysign.docs.10",
           "original_pid": "com.glykka.easysign.docs.10",
-          "count": 10
+          "count": 10,
+          "available_to_buy": false
         }
       ]
     },
