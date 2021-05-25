@@ -81,7 +81,7 @@
           "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_standard_oneyear_2021_40"
+          "discounted_plan_pid": "com_glykka_easysign_standard_oneyear_2021_39"
         },
         {
           "pid": "com_glykka_easysign_plus_oneyear_2021_80",
@@ -93,7 +93,7 @@
           "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_plus_oneyear_2021_80"
+          "discounted_plan_pid": "com_glykka_easysign_plus_oneyear_2021_79"
         }
     ],
       "regional": [
@@ -159,7 +159,7 @@
           "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_standard_oneyear_2021_40"
+          "discounted_plan_pid": "com_glykka_easysign_standard_oneyear_2021_39"
         },
         {
           "pid": "com_glykka_easysign_plus_oneyear_2021_80",
@@ -171,7 +171,7 @@
           "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
-          "discounted_plan_pid": "com_glykka_easysign_plus_oneyear_2021_80"
+          "discounted_plan_pid": "com_glykka_easysign_plus_oneyear_2021_79"
         }]
     }
   ]
