@@ -36,14 +36,14 @@
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
         },
         {
-          "pid": "com_glykka_easysign_professional_oneyear_2021_100",
+          "pid": "com.glykka.easysign.business.oneyear.discount.intro",
           "original_pid": "com_glykka_easysign_professional_oneyear_2021_180",
           "count": 365,
           "id": 3,
           "message": "",
           "save_percentage": "",
-          "is_intro_offer": false,
-          "is_discounted" : false,
+          "is_intro_offer": true,
+          "is_discounted" : "",
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com_glykka_easysign_professional_oneyear_2021_70"
         },
