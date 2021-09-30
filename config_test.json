@@ -24,7 +24,7 @@
       "globalOrRegional": "global",
       "global": [
         {
-          "pid": "com_glykka_easysign_essential_oneyear_2021_30",
+          "pid": "com_glykka_easysign_essential_oneyear_2021_96",
           "original_pid": "com_glykka_easysign_essential_oneyear_2021_96",
           "count": 365,
           "id": 2,
@@ -36,7 +36,7 @@
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
         },
         {
-          "pid": "com_glykka_easysign_professional_oneyear_2021_50",
+          "pid": "com_glykka_easysign_professional_oneyear_2021_180",
           "original_pid": "com_glykka_easysign_professional_oneyear_2021_180",
           "count": 365,
           "id": 3,
