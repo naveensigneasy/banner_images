@@ -1,0 +1,85 @@
+{
+	"plist": [{
+		"type": "Consumables",
+		"productlist": [{
+			"pid": "com.glykka.easysign.docs.10",
+			"original_pid": "",
+			"count": 10,
+			"id": 0,
+			"message": "",
+			"is_discounted": 0
+		}]
+	}, {
+		"type": "Non-Consumables",
+		"productlist": [{
+			"pid": "com.glykka.easysign.premium.oneyear",
+			"original_pid": "",
+			"count": 365,
+			"id": 1,
+			"message": "",
+			"is_discounted": 0
+
+		}]
+	}, {
+		"type": "Subscriptions",
+		"productlist": [{
+			"pid": "com_glykka_easysign_essential_oneyear_2022_50discount_96",
+			"original_pid": "com_glykka_easysign_essential_oneyear_2021_96",			
+			"count": 365,
+			"id": 6,
+			"message": "",
+			"is_discounted":0,
+			"billing_cycle": "annual",
+			"save_on_annual_billing":"50%",
+            "discounted_plan_percentage": "50%",
+            "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_49"
+		}, {
+			"pid": "com_glykka_easysign_professional_oneyear_2022_50discount_180",
+			"original_pid": "com_glykka_easysign_professional_oneyear_2021_180",			
+			"count": 365,
+			"id": 5,
+			"message": "",
+			"is_discounted":0,
+			"billing_cycle": "annual",
+			"save_on_annual_billing":"50%",
+            "discounted_plan_percentage": "50%",
+            "discounted_plan_pid": "com_glykka_easysign_professional_oneyear_2021_79"
+		}, 
+		{
+            "pid": "com.glykka.easysign.pro.oneyear.60",
+            "original_pid": "com.glykka.easysign.pro.oneyear.60",
+            "count": 30,
+            "id": 2,
+            "message": "",
+            "is_discounted":0,
+            "billing_cycle": "annual",
+            "save_on_annual_billing":"50%"
+        }, {
+            "pid": "com.glykka.easysign.business.oneyear.120",
+            "original_pid": "com.glykka.easysign.business.oneyear.120",
+            "count": 30,
+            "id": 3,
+            "message": "",
+            "is_discounted":0,
+            "billing_cycle": "annual",
+            "save_on_annual_billing":"50%"
+        },
+        {
+			"pid": "com_glykka_easysign_essential_monthly_2022_50discount_15",
+			"original_pid": "com_glykka_easysign_essential_monthly_price_increase_15",			
+			"count": 30,
+			"id": 6,
+			"message": "",
+			"is_discounted":0,
+			"billing_cycle": "monthly"
+		}, {
+			"pid": "com_glykka_easysign_professional_onemonth_2022_50discount_25",
+			"original_pid": "com_glykka_easysign_professional_onemonth_2021_25",			
+			"count": 30,
+			"id": 5,
+			"message": "",
+			"is_discounted":0,
+			"billing_cycle": "monthly"
+		}]
+	}]
+}
