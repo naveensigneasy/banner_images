@@ -24,11 +24,11 @@
       "globalOrRegional": "global",
       "global": [
         {
-          "pid": "com_glykka_easysign_essential_oneyear_30discount_96",
+          "pid": "signeasy_essential_yearly_50cut_96",
           "original_pid": "com_glykka_easysign_essential_oneyear_2021_60",
           "count": 365,
           "id": 2,
-          "save_percentage": "30%",
+          "save_percentage": "50%",
           "message": "",
           "is_intro_offer": true,
           "is_discounted" : false,
@@ -41,7 +41,7 @@
           "count": 365,
           "id": 3,
           "message": "",
-          "save_percentage": "30",
+          "save_percentage": "30%",
           "is_intro_offer": true,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
