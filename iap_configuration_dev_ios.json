@@ -45,8 +45,8 @@
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_49"
         },
         {
-          "pid": "com_glykka_easysign_professional_oneyear_2021_180",
-          "original_pid": "com_glykka_easysign_professional_oneyear_2024_240",
+          "pid": "com_glykka_easysign_professional_oneyear_free_trial_2024_180",
+          "original_pid": "com_glykka_easysign_professional_oneyear_free_trial_2024_180",
           "count": 365,
           "id": 5,
           "message": "",
